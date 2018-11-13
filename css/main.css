@@ -16,6 +16,10 @@ html {
   color: #fff;
 }
 
+a:focus {
+  outline: 2px solid red;
+}
+
 .section-light {
   background-color: #fafafa;
   color: #222;
